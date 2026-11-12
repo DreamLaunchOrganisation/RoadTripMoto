@@ -8,10 +8,10 @@ const faq = [
     "Que se passe-t-il en cas de panne ?",
     "Le guide vous accompagne et nous organisons l'assistance avec votre assurance. Une assistance dépannage est vivement recommandée.",
   ],
-  ["Comment se passe le paiement ?", "Un acompte de 30 % confirme la réservation, le solde est demandé 30 jours avant le départ."],
+  ["Comment se passe le paiement ?", "Un acompte de X euros confirme la réservation, le solde est demandé X jours avant le départ."],
   [
     "Quelles sont les conditions d'annulation ?",
-    "L'acompte est remboursable jusqu'à 60 jours avant le départ. Les conditions détaillées sont envoyées avec la confirmation.",
+    "L'acompte est remboursable jusqu'à X jours avant le départ",
   ],
 ];
 

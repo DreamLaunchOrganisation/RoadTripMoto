@@ -56,7 +56,7 @@ export default function Hero() {
               <em>vécue ensemble.</em>
             </h1>
             <p>
-              Des itinéraires préparés avec soin, des hébergements réservés, un guide qui ouvre la route. Vous
+              Des itinéraires préparés avec soin, des hébergements réservés. Vous
               n&apos;avez plus qu&apos;à rouler.
             </p>
             <div className="hero-ctas">
@@ -82,10 +82,10 @@ export default function Hero() {
           </div>
         </div>
         <div className="stats">
-          <Counter to={38} label="road trips organisés" />
-          <Counter to={420} label="motards accompagnés" />
-          <Counter to={65000} label="km parcourus" />
-          <Counter to={12} label="pays traversés" />
+          <Counter to={5} label="road trips organisés" />
+          <Counter to={10} label="motards accompagnés" />
+          <Counter to={10000} label="km parcourus" />
+          <Counter to={4} label="pays traversés" />
         </div>
       </div>
     </section>

@@ -15,7 +15,7 @@ export default function Contact() {
           </h2>
           <div className="contact-info">
             <div>
-              <small>E-mail</small>info@ac-road-trip.be
+              <small>E-mail</small>monmail@mail.be
             </div>
             <div>
               <small>Téléphone</small>+32 4xx xx xx xx
